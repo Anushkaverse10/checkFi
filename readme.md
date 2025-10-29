@@ -17,9 +17,7 @@ Each user can add tasks, mark them as completed, and track their overall progres
 
 ---
 
-
-
-
+Smart contract deployment link:https://celo-sepolia.blockscout.com/address/0xb7c13edbf2863F15D37989F9beD9A71545729131
 
 ## 🧠 Smart Contract Overview
 
@@ -86,4 +84,3 @@ contract DecentralizedChecklist {
 }
 
 
-https://celo-sepolia.blockscout.com/address/0xb7c13edbf2863F15D37989F9beD9A71545729131
