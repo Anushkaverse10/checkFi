@@ -4,7 +4,8 @@ A simple **Solidity smart contract** that allows users to create and manage thei
 Each user can add tasks, mark them as completed, and track their overall progress in percentage.
 
 ---
-![Uploading image.png…]()
+<img width="1918" height="963" alt="image" src="https://github.com/user-attachments/assets/fdc421f5-be05-4c8f-bc19-0d66504bedf0" />
+
 
 ## 🚀 Features
 
