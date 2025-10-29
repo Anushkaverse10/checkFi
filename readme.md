@@ -84,3 +84,6 @@ contract DecentralizedChecklist {
         return (completed * 100) / total;
     }
 }
+
+
+Contract details: 0xb7c13edbf2863F15D37989F9beD9A71545729131
